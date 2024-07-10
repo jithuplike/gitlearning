@@ -1,0 +1,20 @@
+{ 
+    "students":[ 
+
+{
+    "name":"joyal",
+    "age":28,
+    "place":"kollam",
+    "student": true,
+    "language": ["malayalam","hindi","english"]
+},
+
+{
+    "name":"james",
+    "age":28,
+    "place":"tvm",
+    "student": true,
+    "language": ["malayalam","hindi","english"]
+}
+]
+}
